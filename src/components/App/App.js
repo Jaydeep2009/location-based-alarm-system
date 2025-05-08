@@ -1,5 +1,5 @@
 import React from "react";
-import MapComponent from "./components/MapComponents/MapComponents";
+import MapComponent from "./MapComponent";
 //import LocationTracker from "./LocationTracker";
 
 function App() {
